@@ -17,4 +17,3 @@ The dataset was fully cleaned using **Microsoft Excel**, including:
 - Ensured UTF-8 compatibility before loading into Power BI.
   
 
-<img width="1142" height="643" alt="power bi dashboard" src="https://github.com/user-attachments/assets/6c231aa7-105b-48ad-9680-aa76cc1076f5" />
